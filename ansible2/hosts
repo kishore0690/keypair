@@ -1,0 +1,5 @@
+[local]
+ip-172-31-9-1.us-east-2.compute.internal
+
+[prod]
+ip-172-31-37-207.us-east-2.compute.internal

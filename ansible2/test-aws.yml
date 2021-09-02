@@ -1,0 +1,6 @@
+- hosts: webservers
+  become: yes
+  tasks: 
+   - name: sample ec2 key
+     ec2_key: 
+      name: example
